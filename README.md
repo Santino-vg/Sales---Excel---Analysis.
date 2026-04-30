@@ -1,55 +1,55 @@
-Pizza Sales Dashboard
+Pizza Sales Analysis:
 
 A professional Excel dashboard for analyzing pizza sales performance, order behavior, and product popularity across time, size, location, and payment method.
 
-Overview
+Overview:
 
 This project presents an interactive sales dashboard built in Microsoft Excel. It consolidates key business metrics into a clean visual interface so that stakeholders can quickly understand order volume, delivery performance, customer preferences, and market demand.
 
 The dashboard is designed for fast decision-making and simple exploration using slicers for month, payment method, and location.
 
-Key Objectives
+Key Objectives:
 
-Track overall sales and order performance
+* Track overall sales and order performance
 
-Identify trends across months
+* Identify trends across months
 
-Understand customer preferences by pizza size and type
+* Understand customer preferences by pizza size and type
 
-Compare performance across locations
+* Compare performance across locations
 
-Evaluate operational metrics such as delivery delay and distance
-
-
-Dashboard Highlights
-
-KPI Summary Cards for high-level performance tracking
-
-Interactive Slicers for filtering by month, payment method, and location
-
-Orders by Pizza Size visualization
-
-Monthly Order Trend chart
-
-Pizza Popularity by Type chart
-
-Market Demand by Pizza Size chart
-
-Clear layout for quick analysis and executive reporting
+* Evaluate operational metrics such as delivery delay and distance
 
 
-Key Metrics Included
+Dashboard Highlights:
 
-Total Orders
+* KPI Summary Cards for high-level performance tracking
 
-Average Delivery Duration
+* Interactive Slicers for filtering by month, payment method, and location
 
-Total Delayed Orders
+* Orders by Pizza Size visualization
 
-Average Distance per Delivery
+* Monthly Order Trend chart
+
+* Pizza Popularity by Type chart
+
+* Market Demand by Pizza Size chart
+
+* Clear layout for quick analysis and executive reporting
 
 
-Visualizations
+Key Metrics Included:
+
+* Total Orders
+
+* Average Delivery Duration
+
+* Total Delayed Orders
+
+* Average Distance per Delivery
+
+
+Visualizations:
 
 The dashboard includes the following charts:
 
